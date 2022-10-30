@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:CD8FFC,100:6789F8&height=230&text=Welcome!&fontAlignY=40&desc=I'm%20Jin.&descSize=25&descAlignY=60&fontColor=ffffff)
 
 
- <img src="https://img.shields.io/badge/안녕하세요, 백엔드를 공부하고 있는 김진이 입니다!-FCE27A?style=for-the-badge">
+ <img src="https://img.shields.io/badge/안녕하세요, 백엔드를 공부하고 있는 김진이입니다!-FCE27A?style=for-the-badge">
   
   
 #### ✏️ Studying
